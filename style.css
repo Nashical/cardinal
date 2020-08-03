@@ -1,0 +1,68 @@
+#text{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: blue;
+  color: white;
+}
+
+#start-text{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0px;
+  right: 15px;
+  top: 50px;
+}
+
+#start-btn{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20%;
+  width: 75%;
+  left: 0px;
+  right: 15px;
+  bottom: 50px;
+}
+
+#main{
+  position: relative;
+}
+
+#alert-succ{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 15px;
+  right: 15px;
+}
+
+#alert-fail{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 15px;
+  right: 15px;
+}
+
+#card-img-overlay{
+  position: relative;
+}
+
+#buttons{
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  bottom: 50px;
+}
+
+#diag{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 10px;
+  left: 0px;
+}
