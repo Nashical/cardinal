@@ -8,7 +8,6 @@
 
 #menu{
 	opacity: .9;
-  height: 70%;
 }
 
 #home{
@@ -40,6 +39,7 @@
 	z-index: 1;
 	margin: auto;
 	padding: 20px;
+  opacity: .9;
 }
 
 .intro  p{
