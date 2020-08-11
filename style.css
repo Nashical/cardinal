@@ -35,6 +35,7 @@
 
 .intro {
 	text-align:center;
+  border-radius: 25px;
     color: var(--main-fonts-color);
 	z-index: 1;
 	margin: auto;
